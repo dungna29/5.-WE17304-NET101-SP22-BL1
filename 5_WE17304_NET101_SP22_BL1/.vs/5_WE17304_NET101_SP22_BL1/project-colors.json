@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "324bd920-791a-4a38-959e-6f6f7aed147e": {
+      "ProjectGuid": "324bd920-791a-4a38-959e-6f6f7aed147e",
+      "DisplayName": "5_WE17304_NET101_SP22_BL1",
+      "ColorIndex": 0
+    },
+    "b0d0a23d-294b-4b00-8f0f-b68f41e4162d": {
+      "ProjectGuid": "b0d0a23d-294b-4b00-8f0f-b68f41e4162d",
+      "DisplayName": "BAI_1.1_LamQuenVoiCSharp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
