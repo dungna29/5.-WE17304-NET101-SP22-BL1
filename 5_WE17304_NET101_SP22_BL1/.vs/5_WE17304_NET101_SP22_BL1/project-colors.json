@@ -10,7 +10,22 @@
       "ProjectGuid": "b0d0a23d-294b-4b00-8f0f-b68f41e4162d",
       "DisplayName": "BAI_1.1_LamQuenVoiCSharp",
       "ColorIndex": 1
+    },
+    "b081a142-32c7-4da6-8b48-2640ee7d1fac": {
+      "ProjectGuid": "b081a142-32c7-4da6-8b48-2640ee7d1fac",
+      "DisplayName": "BAI_1.2_BienLaGi",
+      "ColorIndex": 2
+    },
+    "e71deee3-cd79-415d-9bcf-b336e82c3560": {
+      "ProjectGuid": "e71deee3-cd79-415d-9bcf-b336e82c3560",
+      "DisplayName": "BAI_1.3_NhapXuatGiaTriTuBanPhim",
+      "ColorIndex": 3
+    },
+    "2fb1edff-99a2-4f1d-9a31-4c3c824b5162": {
+      "ProjectGuid": "2fb1edff-99a2-4f1d-9a31-4c3c824b5162",
+      "DisplayName": "Bai_1.4_EpKieu",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }

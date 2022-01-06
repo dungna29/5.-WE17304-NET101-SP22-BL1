@@ -5,6 +5,12 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_1.1_LamQuenVoiCSharp", "BAI_1.1_LamQuenVoiCSharp\BAI_1.1_LamQuenVoiCSharp.csproj", "{B0D0A23D-294B-4B00-8F0F-B68F41E4162D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_1.2_BienLaGi", "BAI_1.2_BienLaGi\BAI_1.2_BienLaGi.csproj", "{B081A142-32C7-4DA6-8B48-2640EE7D1FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_1.3_NhapXuatGiaTriTuBanPhim", "BAI_1.3_NhapXuatGiaTriTuBanPhim\BAI_1.3_NhapXuatGiaTriTuBanPhim.csproj", "{E71DEEE3-CD79-415D-9BCF-B336E82C3560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_1.4_EpKieu", "Bai_1.4_EpKieu\Bai_1.4_EpKieu.csproj", "{2FB1EDFF-99A2-4F1D-9A31-4C3C824B5162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{B0D0A23D-294B-4B00-8F0F-B68F41E4162D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0D0A23D-294B-4B00-8F0F-B68F41E4162D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0D0A23D-294B-4B00-8F0F-B68F41E4162D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B081A142-32C7-4DA6-8B48-2640EE7D1FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B081A142-32C7-4DA6-8B48-2640EE7D1FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B081A142-32C7-4DA6-8B48-2640EE7D1FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B081A142-32C7-4DA6-8B48-2640EE7D1FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71DEEE3-CD79-415D-9BCF-B336E82C3560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71DEEE3-CD79-415D-9BCF-B336E82C3560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71DEEE3-CD79-415D-9BCF-B336E82C3560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71DEEE3-CD79-415D-9BCF-B336E82C3560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB1EDFF-99A2-4F1D-9A31-4C3C824B5162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB1EDFF-99A2-4F1D-9A31-4C3C824B5162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB1EDFF-99A2-4F1D-9A31-4C3C824B5162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB1EDFF-99A2-4F1D-9A31-4C3C824B5162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
