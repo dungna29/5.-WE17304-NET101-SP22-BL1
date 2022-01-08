@@ -25,7 +25,32 @@
       "ProjectGuid": "2fb1edff-99a2-4f1d-9a31-4c3c824b5162",
       "DisplayName": "Bai_1.4_EpKieu",
       "ColorIndex": 4
+    },
+    "340870b1-217e-478a-8fc7-9e3f7d3a64ab": {
+      "ProjectGuid": "340870b1-217e-478a-8fc7-9e3f7d3a64ab",
+      "DisplayName": "Bai_1.5_ToanTuTrongLapTrinh",
+      "ColorIndex": 5
+    },
+    "baa44330-00a1-40be-aaf9-6bfb57640f16": {
+      "ProjectGuid": "baa44330-00a1-40be-aaf9-6bfb57640f16",
+      "DisplayName": "Bai_1.6_CauLenh_IF",
+      "ColorIndex": 6
+    },
+    "993bd25b-8972-4cbe-88f0-c73a04ae427c": {
+      "ProjectGuid": "993bd25b-8972-4cbe-88f0-c73a04ae427c",
+      "DisplayName": "Bai_1.7_CauLenh_Else",
+      "ColorIndex": 7
+    },
+    "d91acff4-1297-4e32-9659-b08ac488ed1c": {
+      "ProjectGuid": "d91acff4-1297-4e32-9659-b08ac488ed1c",
+      "DisplayName": "Bai_1.8_CauLenh_Else_If",
+      "ColorIndex": 8
+    },
+    "efabbd2a-c698-4598-a887-6f69075866db": {
+      "ProjectGuid": "efabbd2a-c698-4598-a887-6f69075866db",
+      "DisplayName": "Bai_1._9_ToanTuBaNgoi",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 10
 }

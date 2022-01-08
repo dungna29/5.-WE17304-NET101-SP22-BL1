@@ -37,6 +37,16 @@ namespace Bai_1._4_EpKieu
             //Cách 2: Ép kiểu string về số sử dụng parse
             int kq2 = int.Parse(a) + int.Parse(b);
             Console.WriteLine($"{a} + {b} = {kq2}");
+
+            //Ngoài ra một ví dụ khác:
+            double diemCsharp = Double.Parse("8.6");
+
+            //Phần 3: Chuyển đổi kiểu số sang dạng số khác
+            int a1 = 9;
+            double b1 = 8.6;
+            //a1 = b1;Không thể gán giá trị của biến b1 cho a1 vì kích thước của b1 double lớn hơn a1 kiểu int
+            b1 = a1;
+
         }
     }
 }
