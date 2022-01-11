@@ -48,9 +48,19 @@
     },
     "efabbd2a-c698-4598-a887-6f69075866db": {
       "ProjectGuid": "efabbd2a-c698-4598-a887-6f69075866db",
-      "DisplayName": "Bai_1._9_ToanTuBaNgoi",
+      "DisplayName": "Bai_1.9_ToanTuBaNgoi",
       "ColorIndex": 9
+    },
+    "0b6a7636-e0db-4443-a3e2-fdae27d91b73": {
+      "ProjectGuid": "0b6a7636-e0db-4443-a3e2-fdae27d91b73",
+      "DisplayName": "Bai_2.0_VongLap_While_DoWhile_For",
+      "ColorIndex": 10
+    },
+    "28fbf5c4-50c0-407a-b3fa-29ab0dc56dc9": {
+      "ProjectGuid": "28fbf5c4-50c0-407a-b3fa-29ab0dc56dc9",
+      "DisplayName": "Bai_2.1_Array",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }
