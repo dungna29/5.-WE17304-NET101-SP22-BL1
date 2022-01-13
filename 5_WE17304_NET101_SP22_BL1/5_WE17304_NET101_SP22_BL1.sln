@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.0_VongLap_While_DoWhi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.1_Array", "Bai_2.1_Array\Bai_2.1_Array.csproj", "{28FBF5C4-50C0-407A-B3FA-29AB0DC56DC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.2_ArrayThuatToanNoiBot", "Bai_2.2_ArrayThuatToanNoiBot\Bai_2.2_ArrayThuatToanNoiBot.csproj", "{5A484EDA-C1B8-45EF-B26A-17C7F3D61841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{28FBF5C4-50C0-407A-B3FA-29AB0DC56DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28FBF5C4-50C0-407A-B3FA-29AB0DC56DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28FBF5C4-50C0-407A-B3FA-29AB0DC56DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A484EDA-C1B8-45EF-B26A-17C7F3D61841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A484EDA-C1B8-45EF-B26A-17C7F3D61841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A484EDA-C1B8-45EF-B26A-17C7F3D61841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A484EDA-C1B8-45EF-B26A-17C7F3D61841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

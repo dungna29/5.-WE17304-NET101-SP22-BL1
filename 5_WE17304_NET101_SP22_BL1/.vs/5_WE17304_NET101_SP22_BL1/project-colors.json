@@ -60,7 +60,12 @@
       "ProjectGuid": "28fbf5c4-50c0-407a-b3fa-29ab0dc56dc9",
       "DisplayName": "Bai_2.1_Array",
       "ColorIndex": 11
+    },
+    "5a484eda-c1b8-45ef-b26a-17c7f3d61841": {
+      "ProjectGuid": "5a484eda-c1b8-45ef-b26a-17c7f3d61841",
+      "DisplayName": "Bai_2.2_ArrayThuatToanNoiBot",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }
