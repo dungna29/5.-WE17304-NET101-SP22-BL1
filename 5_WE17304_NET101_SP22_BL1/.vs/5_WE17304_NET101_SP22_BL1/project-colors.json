@@ -65,7 +65,27 @@
       "ProjectGuid": "5a484eda-c1b8-45ef-b26a-17c7f3d61841",
       "DisplayName": "Bai_2.2_ArrayThuatToanNoiBot",
       "ColorIndex": 12
+    },
+    "323c14c1-0d75-4c25-9470-64bdb9ea07cd": {
+      "ProjectGuid": "323c14c1-0d75-4c25-9470-64bdb9ea07cd",
+      "DisplayName": "Bai_2.3_CauLenh_Switch_Case",
+      "ColorIndex": 13
+    },
+    "a3687814-b05e-413d-a780-f1a0a6bd04e4": {
+      "ProjectGuid": "a3687814-b05e-413d-a780-f1a0a6bd04e4",
+      "DisplayName": "Bai_2.4_ArrayList",
+      "ColorIndex": 14
+    },
+    "296b952c-feee-4981-818d-e5f4bc211caf": {
+      "ProjectGuid": "296b952c-feee-4981-818d-e5f4bc211caf",
+      "DisplayName": "Bai_2.5_List",
+      "ColorIndex": 15
+    },
+    "2d6f8d0e-cb2c-4e65-85b8-0982a89217e0": {
+      "ProjectGuid": "2d6f8d0e-cb2c-4e65-85b8-0982a89217e0",
+      "DisplayName": "Bai_2.6_TryCatch",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 1
 }
