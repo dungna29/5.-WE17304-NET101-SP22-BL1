@@ -85,7 +85,12 @@
       "ProjectGuid": "2d6f8d0e-cb2c-4e65-85b8-0982a89217e0",
       "DisplayName": "Bai_2.6_TryCatch",
       "ColorIndex": 0
+    },
+    "3bd646c3-f983-46b7-a25e-7f36454ab694": {
+      "ProjectGuid": "3bd646c3-f983-46b7-a25e-7f36454ab694",
+      "DisplayName": "Bai_2.7_OOP_LapTrinhHuongDoiTuong",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

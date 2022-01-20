@@ -30,6 +30,21 @@ namespace Bai_2._6_TryCatch
 
             }
             Console.WriteLine("Kết thúc chương trình");
+
+            int k1, k2;
+            Console.WriteLine("Mời bạn nhập khoảng 1: ");
+            k1 = Convert.ToInt32(Console.ReadLine()); //8
+            Console.WriteLine("Mời bạn nhập khoảng 2: ");
+            k2 = Convert.ToInt32(Console.ReadLine()); //5
+
+            for (int i = Math.Min(k1,k2); i < Math.Max(k1, k2); i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    Console.WriteLine($"{i} x {j} = {i*j}");
+                }
+            }
+           
         }
     }
 }
