@@ -90,7 +90,12 @@
       "ProjectGuid": "3bd646c3-f983-46b7-a25e-7f36454ab694",
       "DisplayName": "Bai_2.7_OOP_LapTrinhHuongDoiTuong",
       "ColorIndex": 1
+    },
+    "ea700622-ba60-4e4b-af68-d0a6272afff6": {
+      "ProjectGuid": "ea700622-ba60-4e4b-af68-d0a6272afff6",
+      "DisplayName": "BAI_2.8_BAITAP_MAU_OOP_ARRAY",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

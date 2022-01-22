@@ -28,7 +28,8 @@ namespace Bai_2._7_OOP_LapTrinhHuongDoiTuong
         //Contructor là không tham số ctor + tab
         public SinhVien()
         {
-            
+           
+           // Console.WriteLine("Tôi là contructor nè");
         }
 
         //Contructor có tham số sẽ giúp khởi tạo đối tượng có giá trị ngay ban đầu khi khởi tạo.
@@ -38,12 +39,13 @@ namespace Bai_2._7_OOP_LapTrinhHuongDoiTuong
           1. Chuột phải vào Class đối tượng chọn Quick Actions....
           2. Generate Contructor và bấm ok
        */
-        public SinhVien(string ten, string msv, int ns, string truong)
+        public SinhVien(string ten1, string msv, int ns, string truong)
         {
-            this.ten = ten;
+            ten = ten1;
             this.msv = msv;
             this.ns = ns;
             this.truong = truong;
+            //this dùng để tham chiếu đến thuộc tính và phương thức của lớp hiện tại
         }
         //Phần 3: Triển khai property của thuộc tính
         /*
@@ -72,7 +74,7 @@ namespace Bai_2._7_OOP_LapTrinhHuongDoiTuong
         public string Truong
         {
             get => truong;
-            set => truong = value;
+           set => truong = value;
         }
 
         //Phần 4: Triển khai các phương thức của đối tượng

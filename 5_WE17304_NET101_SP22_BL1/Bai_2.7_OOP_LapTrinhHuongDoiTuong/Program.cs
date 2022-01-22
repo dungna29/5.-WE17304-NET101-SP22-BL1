@@ -47,6 +47,7 @@ namespace Bai_2._7_OOP_LapTrinhHuongDoiTuong
         {
             //Phần 1: Để sử dụng được đối tượng cần phải biết tên đối tượng
             SinhVien sv1 = new SinhVien();//Khởi tạo 1 đối tượng
+            //SinhVien() = Contructor của lớp
             SinhVien sv2;//Khai báo 1 đối tượng
             sv2 = new SinhVien();//Khởi tạo 1 đối tượng
 
@@ -54,10 +55,17 @@ namespace Bai_2._7_OOP_LapTrinhHuongDoiTuong
             sv1.Ten = "Dũng";//Ten = property
             sv1.Ns = 2000;
             sv1.Msv = "PH00532";
+            sv1.Truong = "12";
+            //Gám giá trị cho dối tượng thông qua contructor có tham số
+
+            SinhVien sv3 = new SinhVien("Huy", "PH123", 2000, "BK");
+
 
             //Phần 3: In thử thông tin đối tượng
             sv1.inRaManHinh();//In được thông tin
             sv2.inRaManHinh();//Null
+
+            Console.WriteLine(sv1.Ten);
         }
     }
 }
