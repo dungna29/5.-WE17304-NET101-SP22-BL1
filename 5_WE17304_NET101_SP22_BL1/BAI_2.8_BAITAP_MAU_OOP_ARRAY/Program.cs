@@ -28,12 +28,16 @@ namespace BAI_2._8_BAITAP_MAU_OOP_ARRAY
                 switch (choice)
                 {
                     case "1":
+                        cs.bai1ThemMangDoiTuong();
                         break;
                     case "2":
+                        cs.suaCrush();
                         break;
                     case "3":
+                        cs.xoaCrush();
                         break;
                     case "4":
+                        cs.bai4XuatDanhSach();
                         break;
                     case "5":
                         cs.bai5Them1DoiTuong();
