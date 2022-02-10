@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{36D0E68C-80F4-4BB3-91F0-58EAF3242769}</ProjectGuid>
+    <ProjectGuid>{D2F88094-2ECF-447D-AF1E-EE7F0E612104}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bai_2._9_Method_PhuongThuc</RootNamespace>
-    <AssemblyName>Bai_2.9_Method_PhuongThuc</AssemblyName>
+    <RootNamespace>Bai_3_1_OOP_TinhKeThua</RootNamespace>
+    <AssemblyName>Bai_3_1_OOP_TinhKeThua</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Method_TraVe.cs" />
-    <Compile Include="Method_Void_PhuongThucKhongTraVe.cs" />
+    <Compile Include="GiangVien_1.cs" />
+    <Compile Include="Nguoi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
+    <Compile Include="SinhVien.cs" />
+    <Compile Include="SinhVien_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
