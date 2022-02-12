@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2F88094-2ECF-447D-AF1E-EE7F0E612104}</ProjectGuid>
+    <ProjectGuid>{FCB21655-3F81-479B-A9A3-3EAACAAF8E44}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bai_3_1_OOP_TinhKeThua</RootNamespace>
-    <AssemblyName>Bai_3_1_OOP_TinhKeThua</AssemblyName>
+    <RootNamespace>Bai_3_2_Abstract_Interface</RootNamespace>
+    <AssemblyName>Bai_3_2_Abstract_Interface</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ChauChatChutChit\F0.cs" />
-    <Compile Include="ChauChatChutChit\F1.cs" />
-    <Compile Include="ChauChatChutChit\F2.cs" />
-    <Compile Include="GiangVien_1.cs" />
+    <Compile Include="ISinhVienService.cs" />
     <Compile Include="Nguoi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SinhVien.cs" />
-    <Compile Include="SinhVien_1.cs" />
+    <Compile Include="SinhVienService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

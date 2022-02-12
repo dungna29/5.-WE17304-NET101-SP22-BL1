@@ -21,10 +21,14 @@ namespace Bai_3_1_OOP_TinhKeThua
         //1. Chuột phải vào tên Class Con ở trên -> Quick Actions
         //2. Generate Contructor 'ClassCon(Bên trong có tham số của thuộc tính cha)
         //3. Bôi vào các thuộc tính của con -> Quick Actions -> Add Parameter to contructor -> Chọn cái contructor có tham số vừa Generate ra.
-        public SinhVien(string ten, string ns, string sdt, string cccd, string ngaySinh, string email, string diaChi, string msv, string nganhHoc) : base(ten, ns, sdt, cccd, ngaySinh, email, diaChi)
+        public SinhVien(string ten, string ns, string sdt, string cccd, string ngaySinh, string email, string diaChi, string msv1, string nganhHoc) : base(ten, ns, sdt, cccd, ngaySinh, email, diaChi)
         {
-            this.msv = msv;
+            msv = msv1;
             this.nganhHoc = nganhHoc;
+
+            //this dùng để tham chiếu đến thuộc tính và phương thức của lớp hiện tại
+            //base dùng để tham chiếu đến thuộc tính và phương thức của lớp cha
+           
         }
 
         public string Msv
@@ -51,7 +55,9 @@ namespace Bai_3_1_OOP_TinhKeThua
         //override ghi đè phương thức
         public override void inRaManHinh1()
         {
-            base.inRaManHinh1();
+            //base.inRaManHinh1();
+            //Khi đã kế thừa lại phương thức của cha có quyền code lại phương thức bên trong
+            Console.WriteLine("Đây là phương thức của lớp con kế thừa đã viết lại");
         }
 
         public override void inRaManHinh3()

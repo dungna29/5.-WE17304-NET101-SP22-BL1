@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.0_XuLyChuoi", "Bai_3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3_1_OOP_TinhKeThua", "Bai_3_1_OOP_TinhKeThua\Bai_3_1_OOP_TinhKeThua.csproj", "{D2F88094-2ECF-447D-AF1E-EE7F0E612104}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3_2_Abstract_Interface", "Bai_3_2_Abstract_Interface\Bai_3_2_Abstract_Interface.csproj", "{FCB21655-3F81-479B-A9A3-3EAACAAF8E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.3_BAITAP_MAU_OOP_LIST", "Bai_3.3_BAITAP_MAU_OOP_LIST\Bai_3.3_BAITAP_MAU_OOP_LIST.csproj", "{4403721D-6CA0-4762-A1E8-D651B4B97ABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{D2F88094-2ECF-447D-AF1E-EE7F0E612104}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2F88094-2ECF-447D-AF1E-EE7F0E612104}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2F88094-2ECF-447D-AF1E-EE7F0E612104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB21655-3F81-479B-A9A3-3EAACAAF8E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB21655-3F81-479B-A9A3-3EAACAAF8E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB21655-3F81-479B-A9A3-3EAACAAF8E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB21655-3F81-479B-A9A3-3EAACAAF8E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4403721D-6CA0-4762-A1E8-D651B4B97ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4403721D-6CA0-4762-A1E8-D651B4B97ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4403721D-6CA0-4762-A1E8-D651B4B97ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4403721D-6CA0-4762-A1E8-D651B4B97ABC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -26,6 +26,7 @@ namespace Bai_2._7_OOP_LapTrinhHuongDoiTuong
                - Có hai loại modifier trong: access modifiers và non-access modifiers.
                * Có 4 kiểu của C# access modifiers:
                - private: Chỉ được phép truy cập ở bên trong 1 class.
+
                - (Mặc định): Không khai báo các từ khóa trên
                - internal 
                - protected: Chỉ truy cập được khi là lớp con

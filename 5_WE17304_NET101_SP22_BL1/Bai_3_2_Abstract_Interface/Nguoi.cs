@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bai_3_1_OOP_TinhKeThua
+namespace Bai_3_2_Abstract_Interface
 {
-    //Người ta coi lớp này là lớp cha và về bản chất vẫn là 1 lớp đối tượng
-    class Nguoi
+    //abstract Vễ bản chất vẫn là một lớp cha hoàn toàn bình thường.
+    //Đã 1 lớp abstract thì phải có phương thức abstract
+    abstract class Nguoi
     {
-        //Đưa các thuộc tính chung lên trên lớp cha
+        
         private string ten;
         private string ns;
         private string sdt;
@@ -76,12 +77,11 @@ namespace Bai_3_1_OOP_TinhKeThua
             set => diaChi = value;
         }
 
-        //Để cấp quyền kế thừa phương thức cho lớp con thì bổ sung từ khóa virtual
         public virtual void inRaManHinh1()
         {
             Console.WriteLine("Đây là phương thức inRaManHinh1()");
         }
-        private  void inRaManHinh2()
+        private void inRaManHinh2()
         {
 
         }
@@ -89,5 +89,10 @@ namespace Bai_3_1_OOP_TinhKeThua
         {
 
         }
+        /*
+         * 1. Phương thức abstract không có body code
+         */
+        public abstract void inRaManHinh4();
+        public abstract void inRaManHinh5(int a, int b);
     }
 }
