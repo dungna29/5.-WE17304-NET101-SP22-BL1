@@ -10,7 +10,34 @@ namespace Bai_3._3_BAITAP_MAU_OOP_LIST
     {
         static void Main(string[] args)
         {
-            //Code sẵn các switch case và chức năng.
+            SinhVienService_NangCao ss = new SinhVienService_NangCao();
+            string input;
+            while (true)
+            {
+                Console.WriteLine("1. Thêm");
+                Console.WriteLine("2. Sửa");
+                Console.WriteLine("3. Xóa");
+                Console.WriteLine("4. Tìm kiếm");
+                Console.WriteLine("5. Xuất ds");
+                Console.WriteLine("Mời bạn chọn: ");
+                input = Console.ReadLine();
+                switch (input)
+                {
+                    case "1":
+                        ss.themSV();//Cách gọi các chức năng và test bài
+                        break;
+                    case "2":
+                        break;
+                    case "3":
+                        break;
+                    case "4":
+                        break;
+                    case "5":
+                        break;
+                    default:
+                        break;
+                }
+            }
         }
     }
 }

@@ -48,6 +48,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SinhVien.cs" />
     <Compile Include="SinhVienService.cs" />
+    <Compile Include="SinhVienService_NangCao.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

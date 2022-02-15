@@ -8,6 +8,7 @@ namespace Bai_3._3_BAITAP_MAU_OOP_LIST
 {
     class SinhVien:Nguoi
     {
+
         private string msv;
         private string nganh;
 

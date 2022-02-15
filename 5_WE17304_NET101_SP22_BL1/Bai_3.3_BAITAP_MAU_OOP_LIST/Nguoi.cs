@@ -8,6 +8,7 @@ namespace Bai_3._3_BAITAP_MAU_OOP_LIST
 {
     class Nguoi//Lớp cha
     {
+
         private string ten;
         private string sdt;
         private string ccd;
@@ -15,7 +16,7 @@ namespace Bai_3._3_BAITAP_MAU_OOP_LIST
 
         public Nguoi()
         {
-            
+
         }
 
         public Nguoi(string ten, string sdt, string ccd, int ns)
